@@ -7,11 +7,11 @@ Austin Animal Shelter is inundated with homeless pets.  Exploratory Analysis per
   ### Animal Demographics:  
   >● What breeds and names are most common?
   
-  >● Are there more cats than dogs?
+  >● Are there more cats or dogs?
   
   ### Intake Questions: 
   
-  >● Why are animals brought to the Animal Shelter?
+  >● Why are animals brought to the animal shelter?
   
   >● What times and months are the busiest for intakes?
   
@@ -54,5 +54,6 @@ Austin Animal Shelter is inundated with homeless pets.  Exploratory Analysis per
   # Additional Resources
   
   - Link to Tableau visualizations: https://public.tableau.com/views/AustinAnimalShelter_16703676330020/DeathRates?:language=en-US&:display_count=n&:origin=viz_share_link
-  - Project Report is located in Analysis & Presentation folder above.
-  - Powerpoint Presentation with Case Study final analysis Analysis & Presentation folder above.
+  - Project Report is located in Austin Animal Shelter folder above.
+  - Powerpoint Presentation with Case Study is located in Austin Animal Shelter folder above..
+  - SQL Scripts are located in Austin Animal Shelter folder above.
